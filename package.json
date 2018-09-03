@@ -1,0 +1,18 @@
+{
+  "name": "nscanner",
+  "version": "1.0.1",
+  "description": "Network scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nscanner": "index.js"
+  },
+  "keywords": ["network", "scanner"],
+  "author": "DEADBLACKCLOVER <deadblackclover@protonmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ping": "^0.2.2"
+  }
+}
