@@ -8,6 +8,15 @@ Network scanner
 npm install nscanner -g
 ```
 
+## Use
+```bash
+nscanner
+```
+OR
+```bash
+nscanner "ip"
+```
+
 ## Changelog
 * `v 1.0.0` - Initial Release
 

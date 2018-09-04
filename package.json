@@ -9,6 +9,8 @@
   "bin": {
     "nscanner": "index.js"
   },
+  "homepage": "https://gitlab.com/deadblackclover/nscanner",
+  "bugs": "https://gitlab.com/deadblackclover/nscanner/issues",
   "keywords": ["network", "scanner"],
   "author": "DEADBLACKCLOVER <deadblackclover@protonmail.com>",
   "license": "GPL-3.0",
