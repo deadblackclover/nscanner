@@ -1,6 +1,6 @@
 {
   "name": "nscanner",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Network scanner",
   "main": "index.js",
   "scripts": {
